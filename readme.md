@@ -15,6 +15,8 @@ feel free to contact me for anything!! :3
 
 # What i'm working on:
 
-I'm currently working on an [icon pack for Geometry Dash](https://github.com/EchoDaGooby/EchoIconPackGD)
+- I'm currently working on an [icon pack for Geometry Dash](https://github.com/EchoDaGooby/EchoIconPackGD)
 
 Go check it out if u want!! ^v^
+
+- Trying to create a whole game from zero
