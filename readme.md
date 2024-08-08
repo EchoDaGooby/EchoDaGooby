@@ -9,11 +9,7 @@ Minor!!! (14)
 ## Where you can contact me?
 I have lots of socials but most i use are:
 
-Discord: echodasillyx3
-
-Instagram: echodagooby
-
-Telegram: echodagooby
+Discord/Instagram/Telegram: echodagooby
 
 feel free to contact me for anything!! :3
 
